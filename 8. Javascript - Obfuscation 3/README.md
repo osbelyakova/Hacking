@@ -6,4 +6,6 @@
 <h2>#2</h2>
 <img src="HW-8-1.PNG">
 Нужный пароль: <b>cpassbiendurpassword</b>
+<h2>#3</h2>
+<img src="HW-8-2.PNG">
 <br><br>
