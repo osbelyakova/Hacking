@@ -7,5 +7,5 @@
 <img src="HW-8-2.PNG">
 <h2>#3</h2>
 <img src="HW-8-1.PNG">
-Нужный пароль: <b>7860OsErtk12</b>
+Нужный пароль: <b>786OsErtk12</b>
 <br><br>
