@@ -5,5 +5,5 @@
 Расшифровываем:
 <h2>#2</h2>
 <img src="HW-5-1.PNG">
-Нужный пароль: <b>123456azerty</b>
+Нужный пароль: <b>cpassbiendurpassword</b>
 <br><br>
