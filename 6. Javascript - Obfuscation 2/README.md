@@ -4,6 +4,6 @@
 <img src="HW-6-0.PNG">
 Расшифровываем:
 <h2>#2</h2>
-<img src="HW-6-1.PNG">
+<img src="HW-6-2.PNG">
 Нужный пароль: <b>cpassbiendurpassword</b>
 <br><br>
